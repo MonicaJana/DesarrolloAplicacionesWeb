@@ -1,3 +1,3 @@
-﻿Practica02_web 
-<img width="758" alt="image" src="https://github.com/MonicaJana/DesarrolloAplicacionesWeb/assets/133398057/ff752398-b26d-42d2-ba1d-7fda123d130c">
-
+﻿Laboratorio 6 - Modulos y LoocalStorage
+ 
+![Imagen de WhatsApp 2024-05-19 a las 11 47 20_1db43be6](https://github.com/MonicaJana/DesarrolloAplicacionesWeb/assets/133398057/8635c325-55eb-426e-80f1-e3bd8bed68b9)
